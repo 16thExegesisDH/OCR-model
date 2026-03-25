@@ -1,6 +1,6 @@
-# OCR Model Testing Framework
+# OCR Model
 
-A repository for benchmarking and evaluating OCR models through accuracy metrics and error rate analysis.
+A repository evaluating OCR models through accuracy metrics and error rate analysis.
 
 ---
 
