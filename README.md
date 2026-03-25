@@ -28,13 +28,14 @@ Results are exported as a `.csv` file.
 
 ---
 
+
 ## Tested Models
 
-| # | Model | Reference |
-|---|-------|-----------|
-| 1 | `Gallicorpora+_best.mlmodel` | Pinche & Gabay (2022). *Gallicorpora+*. Zenodo. [10.5281/zenodo.7410529](https://doi.org/10.5281/zenodo.7410529) |
-| 2 | `Lamertus_test-10.mlmodel` | [Download](https://github.com/FourbeFlo/OCR_test/releases/download/ml.model/lambertus_test_mai_best.mlmodel) |
-| 3 | `Lambertus_03_best.mlmodel` = `gallicorpora_adjuste` | [Download-Lambertus](https://github.com/FourbeFlo/Lambertus/releases/download/model/Lambertus_03_best.mlmodel); [Download-gallicorpora-adjuste](https://github.com/16thExegesisDH/OCR-model/releases/tag/OCR)|
+| # | Model | Source |
+|---|-------|--------|
+| 1 | `Gallicorpora+_best.mlmodel` | Pinche & Gabay (2022). *Gallicorpora+*. Zenodo. [doi:10.5281/zenodo.7410529](https://doi.org/10.5281/zenodo.7410529) |
+| 2 | `Lamertus_test-10.mlmodel` | [↓ Download](https://github.com/FourbeFlo/OCR_test/releases/download/ml.model/lambertus_test_mai_best.mlmodel) |
+| 3 | `Lambertus_03_best.mlmodel` / `gallicorpora_adjuste.mlmodel` | Same model, two repositories: [↓ Lambertus_03](https://github.com/FourbeFlo/Lambertus/releases/download/model/Lambertus_03_best.mlmodel) · [↓ gallicorpora_adjuste](https://github.com/16thExegesisDH/OCR-model/releases/tag/OCR) |
 | 4 | `nfd_best.mlmodel` | Provided by S. Gabay |
 
 ---
