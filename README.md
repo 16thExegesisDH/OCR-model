@@ -61,6 +61,6 @@ Results are exported as a `.csv` file.
 
 * Model
 ```
-Goy, F. (2024). gallicorpora_ajuste (v1.0.0). Zenodo.  ?
+Goy, F. (2024). gallicorpora_ajuste (v.1.2.0). Zenodo. https://doi.org/10.5281/zenodo.19218113
 ```
 
